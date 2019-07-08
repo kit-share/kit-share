@@ -1,0 +1,20 @@
+{
+  "name": "drewhamlett",
+  "twitter": "drewhamlett",
+  "editor": "VS Code",
+  "editor_extensions": [
+    "Bracket Pair Colorizer 2",
+    "Color Highlight",
+    "ESLint",
+    "Prettier",
+    "React Native Tools",
+    "Sublime Text Keymap",
+    "Todo Tree",
+    "vscode-styled-components"
+  ],
+  "computer": "Mac Book Pro",
+  "monitor": ["Dell P2715Q 4k"],
+  "theme": "Solarized Light (Custom)",
+  "theme_link": null,
+  "os": "Mac OS"
+}
