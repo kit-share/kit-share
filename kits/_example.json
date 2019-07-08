@@ -1,0 +1,18 @@
+{
+  "name": "GITHUB USERNAME",
+  "twitter": "TWITTER USERNAME",
+  "editor": "CODE EDITOR YOU USE",
+  "editor_extensions": [
+    "ARRAY",
+    "OF",
+    "EDITOR EXTENSIONS",
+    "LIKE",
+    "ESLint",
+    "Prettier",
+  ],
+  "computer": "EX: Macbook Pro",
+  "monitor": ["Monitor(s) you use"],
+  "theme": "THEME YOU USE",
+  "theme_link": "LINK TO THEME",
+  "os": "OS YOU USE, EX: Mac OS"
+}
